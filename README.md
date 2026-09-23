@@ -40,9 +40,10 @@ The analysis focuses on five questions:
 - Investigate the **open-to-link** stage as the primary conversion bottleneck and test improvements to messaging, calls-to-action, and the account-linking journey.
 - Continue experimenting with campaign timing and frequency rather than assuming additional sends generate additional value.
 
-## Tools
+## Tools & Techniques
 
-Python, pandas, NumPy, statsmodels, Matplotlib, Seaborn, A/B Testing, Statistical Hypothesis Testing, Funnel Analysis
+**Python:** pandas, NumPy, statsmodels, Matplotlib, Seaborn  
+**Analysis:** A/B Testing, Two-Proportion Z-Test, User Segmentation, Time-Series Analysis, Funnel Analysis
 
 ## Repository
 
